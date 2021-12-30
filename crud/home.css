@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-image: url("hh.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(2px);
+    color: white;
+}
+.maincontainer {
+    /* margin: 5px;
+    padding: 5px; */
+    background-color: rgba(75, 71, 71, 0.315);
+     /* background-color: rgba(0, 0, 0, 0.459); */
+    color: white;
+    /* min-height: 86vh; */
+    /* color: white; */
+    border-top: 2px solid gray;
+     border-left: 2px solid gray;
+     
+}
+a {
+    text-decoration: none !important;
+    color: black;
+}
